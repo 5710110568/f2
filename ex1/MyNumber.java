@@ -13,10 +13,6 @@ class Counter{
         return val;
     }
 }
-
-
-
-
 public class MyNumber{
  public static void main(String args[]){
      Counter c = new Counter();
